@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils';
-import Test from '../src/components/Test.vue';
+import Test from '@/components/Test.vue';
 
 test('Test', () => {
   // render the component
